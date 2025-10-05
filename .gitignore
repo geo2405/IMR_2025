@@ -32,3 +32,6 @@ Thumbs.db
 # Crash/Profiler
 *.stacktrace
 *.profiler
+
+# Vuforia
+Packages/com.ptc.vuforia.engine-*.tgz
